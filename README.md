@@ -2,7 +2,7 @@
 
 
 Usage:
-Edit package.json to your needs.
+Edit `package.json` and `vite.config.js` to your needs.
 
 add components and files to be exported to `src/index.js`
 run `yarn run build`
